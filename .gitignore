@@ -1,0 +1,8 @@
+*.pth
+*.pt
+*.cache
+*.pyc
+.idea
+build
+dist
+*.egg-info
